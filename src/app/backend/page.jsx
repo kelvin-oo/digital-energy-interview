@@ -23,7 +23,7 @@ export default function Home() {
          <p>I used Next Js Api routes</p>
          <p>Deployed on vercel</p>
          <p><Link href="https://github.com/kelvin-oo/digital-energy-interview/tree/master/src/api">View on Github</Link></p>
-         <p><Link href="https://digital-energy-interview.vercel.app/api/fetch-object/8">Link</Link></p>
+         <p><Link href="https://digital-energy-interview.vercel.app/api/fetch-object/5">Link</Link></p>
          </div>
         </section>
         <footer className={styles.footer}>
