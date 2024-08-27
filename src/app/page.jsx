@@ -15,9 +15,9 @@ export default function Home() {
           <Link href="/second-implementation">Second Implementation</Link>
         </section>
         <footer className={styles.footer}>
-          <a href="">Email</a>
+        <a href="https://github.com/kelvin-oo/digital-energy-interview">Github</a>
           <span></span>
-          <a href="">Github</a>
+          <a href="">hiheykelvin@gmail.com</a>
         </footer>
       </main>
     </>
